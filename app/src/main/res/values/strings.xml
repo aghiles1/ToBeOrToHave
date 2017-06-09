@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cap Sophi@</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="message">contacter le responsable</string>
+    <string name="red">#FF0000</string>
+    <string name="green">#00FF00</string>
+    <string name="bleu">#0000FF</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="livraison">L\'arrivé des livraisons</string>
+    <string name="evenement">Nos nouveaux evenements</string>
+</resources>
